@@ -8,11 +8,11 @@ The purpose of this analysis is to consider the factors that would help us to ac
 
 ## Analysis and Challenges
 
-### Analysis
+### Analysis:
 
 My analysis is based on Deliverables 1 and 2. I narrowed it down to the most obvious factors that can contribute to the success of Louise's play.
 
-### Challenges
+### Challenges:
 
 1. When making the line chart for deliverable one, encountered difficulty in group row lables to show months, overcome by using google and using hint in module. 
 
@@ -24,11 +24,15 @@ My analysis is based on Deliverables 1 and 2. I narrowed it down to the most obv
 
 1. Most successful theater campaigns are held in summer (May/June).
 
+![](https://github.com/YuvrajT/Kickstarter-Analysis-/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
 2. The ratio of failed campaigns are highest in winter (Nov, Dec and Jan).
 
 ### One conclusion is made about the Outcomes based on Goals
 
 1. Campaigns with goal of less than 5k have the highest success rate.
+
+![](https://github.com/YuvrajT/Kickstarter-Analysis-/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Summary of the limitations of the dataset:
 
@@ -39,5 +43,7 @@ My analysis is based on Deliverables 1 and 2. I narrowed it down to the most obv
 ### Recommendation for additional tables or graphs:
 
 1. Countries that are holding the most successful campaigns in summer.
+
+![](https://github.com/YuvrajT/Kickstarter-Analysis-/blob/main/Resources/Countries.png)
 
 2. Average time taken by successful projects to achieve goal
